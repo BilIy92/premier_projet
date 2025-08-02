@@ -1,0 +1,6 @@
+=== Inventaire ===
+
+**Hardware**: Composants physiques du pc
+**Sofware**: Composants virtuels du pc 
+
+https://github.com/BilIy92/premier_projet
